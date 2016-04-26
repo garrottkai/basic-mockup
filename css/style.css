@@ -63,13 +63,15 @@ header {
 .pull-left {
 	float: left;
 	border: 3px solid lightgray;
-	margin: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 	width: 300px;
 }
 
 .clear {
 	background-color: lightskyblue;
 	padding: 20px;
+	display: inline-block;
 }
 
 .pull-right {
