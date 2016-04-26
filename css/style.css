@@ -46,7 +46,7 @@ body {
 }
 
 main {
-	width: 800px;
+	width: 960px;
 	margin-left: 100px;
 }
 
@@ -62,14 +62,14 @@ header {
 	background-color: lightskyblue;
 	margin: 0;
 	width: 100%;
-	padding: 15px;
+	padding: 10px;
 	padding-left: 100px;
 
 }
 
 .pull-left {
 	float: left;
-	border: 3px solid lightgray;
+	border: 5px solid lightgray;
 	margin-right: 20px;
 	margin-bottom: 10px;
 	width: 300px;
@@ -85,7 +85,7 @@ header {
 
 .pull-right {
 	float: right;
-	border: 3px solid white;
+	border: 5px solid white;
 	margin: 10px;
 }
 
