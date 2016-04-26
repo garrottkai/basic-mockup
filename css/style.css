@@ -53,6 +53,7 @@ main {
 
 .instructions {
 	padding: 30px; border: 3px solid lightgray;
+	margin-bottom: 20px;
 }
 
 header {
@@ -72,6 +73,7 @@ header {
 	background-color: lightskyblue;
 	padding: 20px;
 	display: inline-block;
+	margin-bottom: 10px;
 }
 
 .pull-right {
