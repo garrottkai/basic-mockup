@@ -44,7 +44,7 @@ main {
 
 .instructions {
 	padding: 30px;
-	border: 5px solid lightgray;
+	border: 4px solid lightgray;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
@@ -67,7 +67,7 @@ h3 {
 
 .pull-left {
 	float: left;
-	border: 5px solid lightgray;
+	border: 4px solid lightgray;
 	margin-right: 20px;
 	width: 300px;
 }
@@ -75,13 +75,14 @@ h3 {
 .clear {
 	background-color: lightskyblue;
 	padding: 20px;
+	padding-bottom: 5px;
 	display: inline-block;
 	margin-bottom: 20px;
 }
 
 .pull-right {
 	float: right;
-	border: 5px solid white;
+	border: 4px solid white;
 	margin: 10px;
 }
 
