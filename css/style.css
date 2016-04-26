@@ -8,10 +8,6 @@
 html,
 
 
-.clear {
-	clear: both;
-}
-
 /***
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
@@ -38,7 +34,6 @@ body { width: 100%;}
 body {
 	font-family: Helvetica, sans-serif;
 	font-size: 13px;
-	margin: 0px 30px;
 }
 
 main {
@@ -62,7 +57,7 @@ header {
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 19px;
 }
 
 h3 {
@@ -91,8 +86,8 @@ h3 {
 
 footer {
 	background-color: black;
-	color: gray;
-	font-size: 12px;
+	color: darkgray;
+	font-size: 10px;
 	font-style: italic;
 	padding-left: 100px;
 	padding-top: 15px;
