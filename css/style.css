@@ -48,7 +48,8 @@ body {
 }
 
 main {
-	width: 600px;
+	width: 800px;
+	margin-left: 100px;
 }
 
 .instructions {
